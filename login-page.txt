@@ -1,4 +1,8 @@
 login page 
 
 - username
+<<<<<<< HEAD
 - login with google
+=======
+- login with email
+>>>>>>> features2
