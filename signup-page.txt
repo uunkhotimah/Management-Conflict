@@ -1,0 +1,5 @@
+sign up page
+
+- enter email
+- enter username
+- enter password
