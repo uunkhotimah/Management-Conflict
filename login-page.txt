@@ -1,4 +1,4 @@
 login page 
 
 - username
-- password
+- login with email
